@@ -68,8 +68,9 @@
 # 🤝 Contributing
 
 # Screenshots/Demos:
- ![Dashboard Preview]-(https://github.com/Devnikhil1/PAAI/blob/main/Snapshot%20of%20website.png)
-  ![Dashboard Preview]-(https://github.com/Devnikhil1/PAAI/blob/main/Snapshot%20of%20website-.png)
+ ![Project Preview]-(https://github.com/Devnikhil1/PAAI/blob/main/Snapshot%20of%20website.png)
+ 
+  ![Project Preview]-(https://github.com/Devnikhil1/PAAI/blob/main/Snapshot%20of%20website-.png)
 
   
 
