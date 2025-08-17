@@ -1,4 +1,4 @@
-# PAAI
+# PAAI ("Personality Assistant Artificial intelligence")
 # 📌 Overview:-
 
       # PAAI is a web application that generates personalized outfit recommendations based on your preferences, such as:
@@ -35,9 +35,9 @@
 
 # 🖥 Tech Stack:-
              
-             **Technology	Purpose**
+             **Technology Purpose**
           
-                 •HTML5	Structure of the web app
+                 •HTML	Structure of the web app
                  
                  •CSS3 / Tailwind CSS	Styling and layout
                  
